@@ -2,7 +2,8 @@
 
 ## Proxy HTTP et HTTPS
 
-<a href="https://github.com/Fipk/Reseau_TP4/blob/master/images/proxy_http.PNG">proxy http</a>
+<p> Proxy http</p>
+<img src="https://github.com/Fipk/Reseau_TP4/blob/master/images/proxy_http.PNG"></img>
 
-
-<a href="https://github.com/Fipk/Reseau_TP4/blob/master/images/proxy_https.PNG">Proxy https</a>
+<p> Proxy https</p>
+<img src="https://github.com/Fipk/Reseau_TP4/blob/master/images/proxy_https.PNG"></img>
